@@ -1,7 +1,7 @@
 Version with pre trained model
 need do documentation
 
-if you want train your model : 
+if you want train your model //BUT YOU CAN USE PRE TRAIN MODEL .H5// : 
 folder structure 
 data/
 ├── train/
